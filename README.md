@@ -40,6 +40,14 @@ I'm currently learning:
 
 ---
 
+## 💻 My Devices：
+- **Thinkpad X230(Main)**
+- **Raspberry pi A+ V1.1**
+- **Raspberry pi pico**
+- **Nintendo Switch**
+- **HP OMEN 15**
+---
+
 ### 🚀 Fun Animation !
 
 <p align="center">
